@@ -1,7 +1,8 @@
 # Autofeed Controller
-<img src="logo.png">
 ## Computer Programming Project - Autofeed Controller - Automatic Food Feeding Machine
+<img src="logo.png">
 <img src="banner.jpg">
+
 ## Introduction
 Autofeed Controller คือโปรเจคในวิชา Computer Programming โดยโปรเจคนี้เป็นการนำภาษา C มาเขียน
 เพื่อทำงานในระบบ Arduino บนบอร์ด NodeMCU - ESP8266
