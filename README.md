@@ -1,6 +1,6 @@
 # Autofeed Controller
 ## Computer Programming Project - Autofeed Controller - Automatic Food Feeding Machine
-<img src="logo.png">
+<img src="logo.png" href="https://www.youtube.com/watch?v=DYTvOYWdfiU">
 <img src="banner.jpg">
 
 ## Introduction
@@ -8,6 +8,7 @@ Autofeed Controller คือโปรเจคในวิชา Computer Progr
 เพื่อทำงานในระบบ Arduino บนบอร์ด NodeMCU - ESP8266
 
 ## How to
+https://youtu.be/DYTvOYWdfiU<br>
 วิธีการใช้งานนะครับเราสามารถสั่งให้ฝาที่ปิดอาหารเปิดเพื่อให้อาหารหล่นมาที่ช่องด้านล่างเพื่อให้สัตว์เลี้ยงเข้ามาทานอาหารได้
 ผ่านระบบ Firebase Realtime Database นะครับซึ่งระบบนี้สามารถควบคุมได้ทั้งเว็บไซต์ และบน Smart Device ต่างๆนะครับ
 
